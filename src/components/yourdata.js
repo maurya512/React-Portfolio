@@ -31,37 +31,37 @@ export default {
       id: 2, //DO NOT CHANGE THIS
       title: "Space Saverr",
       imageSrc: "https://via.placeholder.com/300",
-      url: "https://github.com/ElhamFabe/Space-Saverr"
+      url: "https://github.com/ElhamFabe/Space-Saverr",
+      description: "Online Shopping made simple with an easy to use comparison tool where you get the best deals from 2 of your major online retailers in 1 location."
     },
     {
       id: 3, //DO NOT CHANGE THIS
       title: "Fitness Tracker(Using Remote Database)",
       imageSrc: "https://via.placeholder.com/300",
-      url: "https://fitness-trackerr.herokuapp.com/?id=5f5da1ec7054cb0017bec71e"
+      url: "https://fitness-trackerr.herokuapp.com/?id=5f5da1ec7054cb0017bec71e",
+      description: "A Simple fitness tracker app that tracks all your workouts helping you stay on track for your fitness goals."
     },
     {
       id: 4, //DO NOT CHANGE THIS
       title: "Online and Offline Expense Tracker",
       imageSrc: "https://via.placeholder.com/300",
-      url: "https://agile-springs-64212.herokuapp.com/"
+      url: "https://agile-springs-64212.herokuapp.com/",
+      description: "An Online and Offline Expense Tracker that tracks your deposits and expenses whether you're connected to the internet or not"
     },
     {
       id: 5, //DO NOT CHANGE
-      title: "Coffee App(Work in progess)",
+      title: "Coffee App",
       imageSrc: "https://via.placeholder.com/300",
-      url: "https://github.com/Carlo-Defilippis/Coffee_App"
+      url: "https://github.com/Carlo-Defilippis/Coffee_App",
+      description: "An app template for a local Coffee Shop"
+    },
+    {
+      id: 6,
+      title: "Maurya's Ecomm-Store(Work in progress)",
+      imageSrc: "https://via.placeholder.com/300",
+      url: "https://github.com/maurya512/ecomm-store",
+      description: "A dummy ecommerce store to brush up my skills."
     }
-    // Paste more projects here from the template
-
-    /*
-                    If You Want To Add More Project just Copy and Paste This At The End (Update the id Respectively)
-                ,{
-                id: 7,
-                service: 'Something Amazing',
-                imageSrc: "",
-                url: ''
-            }
-                */
   ],
 
   // Contact Section
