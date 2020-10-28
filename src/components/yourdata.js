@@ -22,7 +22,7 @@ export default {
       id: 1, //DO NOT CHANGE THIS 
       title: "Stock Watch", //Project Title - Add Your Project Title Here
       // Image Size Should be (300X300 px)
-      imageSrc: "https://via.placeholder.com/300",
+      imageSrc: "assets/sw.png",
       //Project URL - Add Your Project Url Here
       url: "https://misterjaykay.github.io/Project-1/",
       description: "This project was created with an incredible team to let a common working Joe get basic knowledge of the Stock Market and financial news around the world."
@@ -30,21 +30,21 @@ export default {
     {
       id: 2, //DO NOT CHANGE THIS
       title: "Space Saverr",
-      imageSrc: "https://via.placeholder.com/300",
+      imageSrc: "assets/ss.png",
       url: "https://github.com/ElhamFabe/Space-Saverr",
       description: "Online Shopping made simple with an easy to use comparison tool where you get the best deals from 2 of your major online retailers in 1 location."
     },
     {
       id: 3, //DO NOT CHANGE THIS
       title: "Fitness Tracker(Using Remote Database)",
-      imageSrc: "https://via.placeholder.com/300",
+      imageSrc: "assets/ft1.png",
       url: "https://fitness-trackerr.herokuapp.com/?id=5f5da1ec7054cb0017bec71e",
       description: "A Simple fitness tracker app that tracks all your workouts helping you stay on track for your fitness goals."
     },
     {
       id: 4, //DO NOT CHANGE THIS
       title: "Online and Offline Expense Tracker",
-      imageSrc: "https://via.placeholder.com/300",
+      imageSrc: "assets/bt1.png",
       url: "https://agile-springs-64212.herokuapp.com/",
       description: "An Online and Offline Expense Tracker that tracks your deposits and expenses whether you're connected to the internet or not"
     },
