@@ -1,22 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.d88b9176.chunk.css",
-    "main.js": "/static/js/main.c7bcfd4a.chunk.js",
-    "main.js.map": "/static/js/main.c7bcfd4a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c8b6af16.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c8b6af16.js.map",
-    "static/js/2.74dab61e.chunk.js": "/static/js/2.74dab61e.chunk.js",
-    "static/js/2.74dab61e.chunk.js.map": "/static/js/2.74dab61e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0c4001b1a787fdb8fc1bcaea3fc48cdf.js": "/precache-manifest.0c4001b1a787fdb8fc1bcaea3fc48cdf.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d88b9176.chunk.css.map": "/static/css/main.d88b9176.chunk.css.map",
-    "static/js/2.74dab61e.chunk.js.LICENSE.txt": "/static/js/2.74dab61e.chunk.js.LICENSE.txt"
+    "main.css": "/maurya512.github.io/react-portfolio/static/css/main.6eb50a49.chunk.css",
+    "main.js": "/maurya512.github.io/react-portfolio/static/js/main.e3b56083.chunk.js",
+    "main.js.map": "/maurya512.github.io/react-portfolio/static/js/main.e3b56083.chunk.js.map",
+    "runtime-main.js": "/maurya512.github.io/react-portfolio/static/js/runtime-main.1b3ea944.js",
+    "runtime-main.js.map": "/maurya512.github.io/react-portfolio/static/js/runtime-main.1b3ea944.js.map",
+    "static/js/2.bba198a4.chunk.js": "/maurya512.github.io/react-portfolio/static/js/2.bba198a4.chunk.js",
+    "static/js/2.bba198a4.chunk.js.map": "/maurya512.github.io/react-portfolio/static/js/2.bba198a4.chunk.js.map",
+    "index.html": "/maurya512.github.io/react-portfolio/index.html",
+    "precache-manifest.c141fda4c8c45e5c86047285efb95b2b.js": "/maurya512.github.io/react-portfolio/precache-manifest.c141fda4c8c45e5c86047285efb95b2b.js",
+    "service-worker.js": "/maurya512.github.io/react-portfolio/service-worker.js",
+    "static/css/main.6eb50a49.chunk.css.map": "/maurya512.github.io/react-portfolio/static/css/main.6eb50a49.chunk.css.map",
+    "static/js/2.bba198a4.chunk.js.LICENSE.txt": "/maurya512.github.io/react-portfolio/static/js/2.bba198a4.chunk.js.LICENSE.txt",
+    "static/media/bt1.png": "/maurya512.github.io/react-portfolio/static/media/bt1.d95e7818.png",
+    "static/media/ds.gif": "/maurya512.github.io/react-portfolio/static/media/ds.9abed65f.gif",
+    "static/media/ft1.png": "/maurya512.github.io/react-portfolio/static/media/ft1.4c5dcac0.png",
+    "static/media/mp1.jpg": "/maurya512.github.io/react-portfolio/static/media/mp1.c0a863ea.jpg",
+    "static/media/spotify.png": "/maurya512.github.io/react-portfolio/static/media/spotify.8e3610fa.png",
+    "static/media/ss.png": "/maurya512.github.io/react-portfolio/static/media/ss.b8c95035.png",
+    "static/media/sw.png": "/maurya512.github.io/react-portfolio/static/media/sw.dc0d91a2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8b6af16.js",
-    "static/js/2.74dab61e.chunk.js",
-    "static/css/main.d88b9176.chunk.css",
-    "static/js/main.c7bcfd4a.chunk.js"
+    "static/js/runtime-main.1b3ea944.js",
+    "static/js/2.bba198a4.chunk.js",
+    "static/css/main.6eb50a49.chunk.css",
+    "static/js/main.e3b56083.chunk.js"
   ]
 }
