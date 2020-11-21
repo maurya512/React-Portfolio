@@ -2,15 +2,24 @@
   "name": "react-portfolio-template-v2",
   "version": "0.1.0",
   "private": true,
+  "homepage": "maurya512.github.io/react-portfolio/",
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "axios": "^0.21.0",
+    "express": "^4.17.1",
+    "node-sass": "^4.14.1",
+    "nodemailer": "^6.4.16",
+    "nodemailer-mailgun-transport": "^2.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-icons": "^3.9.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^3.4.1",
+    "react-scroll": "^1.8.1"
   },
   "scripts": {
     "start": "react-scripts start",
