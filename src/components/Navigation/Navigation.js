@@ -8,6 +8,7 @@ import FavoriteIcon from '@material-ui/icons/Favorite';
 import PersonPinIcon from '@material-ui/icons/PersonPin';
 import WorkRoundedIcon from '@material-ui/icons/WorkRounded';
 import Assignment from '@material-ui/icons/Assignment';
+import Dehaze from '@material-ui/icons/Dehaze';
 import QuestionAnswerRoundedIcon from '@material-ui/icons/QuestionAnswerRounded';
 import Typography from '@material-ui/core/Typography';
 import Box from '@material-ui/core/Box';
@@ -105,26 +106,30 @@ var scroller = Scroll.scroller;
 					aria-label='scrollable force tabs example'
 					centered={tabTypes[1]}
 				>
-					<Tab onClick={()=>scrollFunc("about-me")} label='About Me' icon={<PersonPinIcon />} {...a11yProps(0)} />
-					<Tab  onClick={()=>scrollFunc("projects")} label='Projects' icon={<FavoriteIcon />} {...a11yProps(1)} />
-					<Tab  onClick={()=>scrollFunc("experience")} label='Experience' icon={<WorkRoundedIcon />} {...a11yProps(2)} />
-					<Tab  onClick={()=>scrollFunc("skill")} label='Skills' icon={<Assignment />} {...a11yProps(3)} />
-					<Tab  onClick={()=>scrollFunc("contact-me")} label='Contact Me' icon={<QuestionAnswerRoundedIcon />} {...a11yProps(4)} />
+					<Tab  onClick={()=>scrollFunc("about-me")} label='About Me' icon={<PersonPinIcon />} {...a11yProps(0)} />
+					<Tab  onClick={()=>scrollFunc("resume")} label='Resume' icon={<Dehaze />} {...a11yProps(1)} />
+					<Tab  onClick={()=>scrollFunc("projects")} label='Projects' icon={<FavoriteIcon />} {...a11yProps(2)} />
+					<Tab  onClick={()=>scrollFunc("experience")} label='Experience' icon={<WorkRoundedIcon />} {...a11yProps(3)} />
+					<Tab  onClick={()=>scrollFunc("skill")} label='Skills' icon={<Assignment />} {...a11yProps(4)} />
+					<Tab  onClick={()=>scrollFunc("contact-me")} label='Contact Me' icon={<QuestionAnswerRoundedIcon />} {...a11yProps(5)} />
 				</Tabs>
 			</AppBar>
 			<TabPanel value={value} index={0}>
 				About Me
 			</TabPanel>
-			<TabPanel value={value} index={1}>
-				Project
+			<TabPanel value={value} index={1}> 
+			Resume
 			</TabPanel>
 			<TabPanel value={value} index={2}>
-				Experience
+				Project
 			</TabPanel>
 			<TabPanel value={value} index={3}>
-				Skill
+				Experience
 			</TabPanel>
 			<TabPanel value={value} index={4}>
+				Skill
+			</TabPanel>
+			<TabPanel value={value} index={5}>
 
 			</TabPanel>
 		</div>
